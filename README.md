@@ -23,7 +23,7 @@ This project is a real-time analytics dashboard built for a fitness studio to tr
 - Images: Dashboard preview
 
  Dashboard Preview
-![Dashboard](Images/Jaguar-Fitness-Dashboard.png)
+![Dashboard](Images/jaguar-fitness-dashboard.png)
 
  Insights
 - Evening batches have more members than morning
