@@ -7,6 +7,7 @@ This project is a real-time analytics dashboard built for a fitness studio to tr
  Features
 - Monthly income tracking
 - Rent & electricity expense analysis
+
 - Profit percentage calculation
 - Morning vs Evening member comparison
 - Workout category distribution
@@ -23,7 +24,8 @@ This project is a real-time analytics dashboard built for a fitness studio to tr
 - Images: Dashboard preview
 
  Dashboard Preview
-![Dashboard](Images/jaguar-fitness-dashboard.png)
+![Dashboard]
+<img width="769" height="434" alt="jaguar-fitness-dashboard" src="https://github.com/user-attachments/assets/a84d7a09-be0d-4f1f-b79c-5162efd321a2" />
 
  Insights
 - Evening batches have more members than morning
