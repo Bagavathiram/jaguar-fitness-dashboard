@@ -24,7 +24,9 @@ This project is a real-time analytics dashboard built for a fitness studio to tr
 - Images: Dashboard preview
 
  Dashboard Preview
-![Dashboard]
+ 
+Dashboard
+
 <img width="769" height="434" alt="jaguar-fitness-dashboard" src="https://github.com/user-attachments/assets/a84d7a09-be0d-4f1f-b79c-5162efd321a2" />
 
  Insights
